@@ -2,3 +2,8 @@
 *.tgz
 *.feat
 *.vocab
+README
+.vscode
+aclImdb
+*.tar.gz
+*.tsv.gz
